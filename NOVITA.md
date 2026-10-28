@@ -1,5 +1,12 @@
 # Novità di DroneTool
 
+## 1.1.0 — 28 ottobre 2026
+
+- Grafica nuova nello stile dei telefoni Pixel: titoli grandi, schede arrotondate, impostazioni a gruppi con le icone, passaggi animati tra le schermate.
+- Colori DJI con accenti rosso, verde e blu; ogni app ha il suo colore: TikTok blu, Instagram rosa, WhatsApp verde, YouTube rosso.
+- Durante l'elaborazione una forma animata e una barra ondulata che passa dal grigio del D-Log M ai colori.
+- I pulsanti principali sono più grandi e restano sempre in fondo allo schermo.
+
 ## 1.0.0 — 28 ottobre 2026
 
 - Prima versione per Android di DroneTool D-Log M 2.5 per Windows: stesse regole e stessi numeri, sul telefono.

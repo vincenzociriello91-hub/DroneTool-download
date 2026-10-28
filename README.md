@@ -2,7 +2,7 @@
 
 **Dal D-Log M ai social, sul telefono.** DroneTool prende i video girati in **D-Log M** con il **DJI Mini 5 Pro** e li trasforma in video pronti per TikTok, Instagram, WhatsApp e YouTube, scegliendo da solo la correzione colore adatta alla scena (tramonto, mare, città, neve, notte…), con la LUT ufficiale DJI.
 
-Gratis, senza pubblicità, senza account. I video si elaborano tutti sul telefono: niente viene caricato da nessuna parte.
+Gratis, senza pubblicità, senza account. I video si elaborano tutti sul telefono e non vengono caricati da nessuna parte. Se lo permetti (lo chiede al primo avvio, si cambia nelle Impostazioni), l'app invia solo rapporti tecnici **cifrati** per correggere i problemi: mai video, nomi dei file, posizione o data dei voli ([informativa](PRIVACY.md)).
 
 ## Scarica e installa
 

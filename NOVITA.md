@@ -1,5 +1,9 @@
 # Novità di DroneTool
 
+## 1.1.1 — 28 ottobre 2026
+
+- Quando nessuno dei video scelti è D-Log M, i risultati dicono per ogni video perché è stato saltato.
+
 ## 1.1.0 — 28 ottobre 2026
 
 - Grafica nuova nello stile dei telefoni Pixel: titoli grandi, schede arrotondate, impostazioni a gruppi con le icone, passaggi animati tra le schermate.

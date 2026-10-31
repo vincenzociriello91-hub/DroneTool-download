@@ -12,6 +12,14 @@ Gratis, senza pubblicità, senza account. I video si elaborano tutti sul telefon
 
 **Aggiornamenti:** quando esce una versione nuova, DroneTool te lo dice da sola, ti mostra le novità e, se vuoi, la scarica e la installa **sopra** quella che hai (impostazioni e video restano). Le novità di ogni versione sono in [NOVITA.md](NOVITA.md) e nella pagina Novità dell'app.
 
+## Come si usa
+
+1. Scegli i video dalla Galleria, da File (anche con i file `.SRT` del drone) o da un'altra app con *Condividi › DroneTool*.
+2. Rispondi a tre domande (inquadratura dei video orizzontali, stile del colore, motion blur): restano per la volta dopo.
+3. Aspetta: il lavoro continua anche a schermo spento, con l'avanzamento nella notifica.
+
+Solo i video D-Log M originali vengono elaborati: quelli Normali, HLG, HDR o a 8 bit vengono saltati e l'app ti dice perché. La guida completa è nel menu › **Come funziona**; formati, colore e altre scelte sono nelle **Impostazioni**.
+
 ## Cosa crea
 
 | File | Per cosa |
@@ -28,7 +36,7 @@ Per ogni file c'è il pulsante che apre TikTok, Instagram, WhatsApp o YouTube co
 
 Dall'app: menu › **Suggerimenti**, oppure [apri una segnalazione](https://github.com/vincenzociriello91-hub/DroneTool-download/issues/new?template=suggerimento.yml). Se un video non viene bene, allega il rapporto che trovi in `Download/DroneTool`.
 
-Ti piace DroneTool? Puoi sostenerne lo sviluppo su [Ko-fi](https://ko-fi.com/vincenzociriello).
+Ti piace DroneTool? Puoi sostenerne lo sviluppo su [Ko-fi](https://ko-fi.com/vincenzociriello) (anche dall'app: menu › **Dona su Ko-fi**).
 
 ## Informazioni
 

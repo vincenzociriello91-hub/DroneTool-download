@@ -1,5 +1,11 @@
 # Novità di DroneTool
 
+## 1.2.1 — 31 ottobre 2026
+
+- Se svuoti l'elenco o togli un video mentre l'app lo sta ancora leggendo, non ricompare più da solo.
+- Se l'anteprima prima/dopo non si riesce a creare, il rapporto lo dice (il video è pronto lo stesso).
+- Più affidabile quando il telefono non riesce ad avviare il chip video: lo libera subito e i video successivi non ne risentono.
+
 ## 1.2.0 — 31 ottobre 2026
 
 - Appena scegli i video, l'elenco ti avvisa subito quali non sono D-Log M (per esempio girati a 8 bit) e perché: non serve aspettare l'elaborazione per scoprirlo.

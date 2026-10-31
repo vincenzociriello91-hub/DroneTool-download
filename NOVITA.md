@@ -1,5 +1,9 @@
 # Novità di DroneTool
 
+## 1.2.0 — 31 ottobre 2026
+
+- Appena scegli i video, l'elenco ti avvisa subito quali non sono D-Log M (per esempio girati a 8 bit) e perché: non serve aspettare l'elaborazione per scoprirlo.
+
 ## 1.1.1 — 28 ottobre 2026
 
 - Quando nessuno dei video scelti è D-Log M, i risultati dicono per ogni video perché è stato saltato.

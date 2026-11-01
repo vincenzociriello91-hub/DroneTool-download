@@ -1,5 +1,9 @@
 # Novità di DroneTool
 
+## 1.2.3 — 1 novembre 2026
+
+- Corretto: DroneTool scaricato da Google Play non viene mai segnalato per errore come copia non originale.
+
 ## 1.2.2 — 1 novembre 2026
 
 - Se il telefono non riesce a leggere la firma dell'app, DroneTool non la scambia più per una copia falsa.

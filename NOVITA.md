@@ -1,5 +1,10 @@
 # Novità di DroneTool
 
+## 1.2.2 — 1 novembre 2026
+
+- Se il telefono non riesce a leggere la firma dell'app, DroneTool non la scambia più per una copia falsa.
+- Se una copia viene davvero rifiutata, il messaggio mostra la firma trovata: così si capisce subito perché.
+
 ## 1.2.1 — 31 ottobre 2026
 
 - Se svuoti l'elenco o togli un video mentre l'app lo sta ancora leggendo, non ricompare più da solo.

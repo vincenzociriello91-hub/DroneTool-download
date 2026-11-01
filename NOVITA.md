@@ -1,5 +1,10 @@
 # Novità di DroneTool
 
+## 1.2.4 — 1 novembre 2026
+
+- Nuova sezione Aggiornamenti (Impostazioni › Aggiornamenti dell'app): vedi se c'è una versione nuova, la scarichi e la installi solo quando vuoi.
+- DroneTool da Google Play: l'aggiornamento si scarica in background mentre usi l'app, poi decidi tu quando installarlo.
+
 ## 1.2.3 — 1 novembre 2026
 
 - Corretto: DroneTool scaricato da Google Play non viene mai segnalato per errore come copia non originale.

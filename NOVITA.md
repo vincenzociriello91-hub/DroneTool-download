@@ -1,5 +1,13 @@
 # Novità di DroneTool
 
+## 1.2.6 — 1 novembre 2026
+
+- In Impostazioni › Rapporti per migliorare DroneTool trovi la voce Privacy: cosa resta sul telefono e cosa contengono i rapporti.
+- Se DroneTool si chiude a metà di un lavoro, in Home trovi «Completa i file mancanti»: tiene i file già pronti e rifà solo quelli che mancano.
+- Nuova guida «Come funziona» anche in Impostazioni › Novità e aggiornamenti: cosa fa l'app e come usarla, in parole semplici.
+- DroneTool cerca gli aggiornamenti ogni volta che lo apri o ci torni (al massimo ogni 15 minuti), non più ogni 12 ore.
+- Se il telefono non riesce a leggere la firma dell'app, DroneTool non si blocca; l'avviso di copia non originale mostra la firma trovata.
+
 ## 1.2.5 — 1 novembre 2026
 
 - Se un video si ferma per un errore, in Risultati trovi una spiegazione chiara in italiano e cosa fare (il dettaglio tecnico resta nel rapporto).

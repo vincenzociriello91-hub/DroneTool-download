@@ -1,5 +1,11 @@
 # Novità di DroneTool
 
+## 1.2.5 — 1 novembre 2026
+
+- Se un video si ferma per un errore, in Risultati trovi una spiegazione chiara in italiano e cosa fare (il dettaglio tecnico resta nel rapporto).
+- Dopo aver toccato Annulla, la schermata resta su «Annullo...» finché il lavoro si ferma davvero.
+- Più affidabile quando la grafica del telefono non riesce a partire: la libera subito e il video successivo riparte pulito.
+
 ## 1.2.4 — 1 novembre 2026
 
 - Nuova sezione Aggiornamenti (Impostazioni › Aggiornamenti dell'app): vedi se c'è una versione nuova, la scarichi e la installi solo quando vuoi.

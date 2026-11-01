@@ -2,7 +2,7 @@
 
 **Dal D-Log M ai social, sul telefono.** DroneTool prende i video girati in **D-Log M** con il **DJI Mini 5 Pro** e li trasforma in video pronti per TikTok, Instagram, WhatsApp e YouTube, scegliendo da solo la correzione colore adatta alla scena (tramonto, mare, città, neve, notte…), con la LUT ufficiale DJI.
 
-Gratis, senza pubblicità, senza account. I video si elaborano tutti sul telefono e non vengono caricati da nessuna parte. Se lo permetti (lo chiede al primo avvio, si cambia nelle Impostazioni), l'app invia solo rapporti tecnici **cifrati** per correggere i problemi: mai video, nomi dei file, posizione o data dei voli ([informativa](PRIVACY.md)).
+Gratis, senza pubblicità, senza account. I video si elaborano tutti sul telefono e non vengono caricati da nessuna parte. Se lo permetti (lo chiede al primo avvio, si cambia nelle Impostazioni, dove la voce **Privacy** spiega cosa resta sul telefono), l'app invia solo rapporti tecnici **cifrati** per correggere i problemi: mai video, nomi dei file, posizione o data dei voli ([informativa](PRIVACY.md)).
 
 ## Scarica e installa
 
@@ -10,7 +10,7 @@ Gratis, senza pubblicità, senza account. I video si elaborano tutti sul telefon
 2. Apri il file scaricato. La prima volta Android chiede di consentire l'installazione da questa fonte: consentila.
 3. Serve Android 10 o successivo.
 
-**Aggiornamenti:** quando esce una versione nuova, DroneTool te lo dice da sola, ti mostra le novità e, se vuoi, la scarica e la installa **sopra** quella che hai (impostazioni e video restano). Le novità di ogni versione sono in [NOVITA.md](NOVITA.md) e nella pagina Novità dell'app.
+**Aggiornamenti:** quando esce una versione nuova, DroneTool te lo dice da sola, ti mostra le novità e, se vuoi, la scarica e la installa **sopra** quella che hai (impostazioni e video restano). Puoi anche controllare quando vuoi da Impostazioni › **Aggiornamenti dell'app**. Le novità di ogni versione sono in [NOVITA.md](NOVITA.md) e nella pagina Novità dell'app.
 
 ## Come si usa
 
@@ -18,7 +18,7 @@ Gratis, senza pubblicità, senza account. I video si elaborano tutti sul telefon
 2. Rispondi a tre domande (inquadratura dei video orizzontali, stile del colore, motion blur): restano per la volta dopo.
 3. Aspetta: il lavoro continua anche a schermo spento, con l'avanzamento nella notifica.
 
-Solo i video D-Log M originali vengono elaborati: quelli Normali, HLG, HDR o a 8 bit vengono saltati e l'app ti dice perché. La guida completa è nel menu › **Come funziona**; formati, colore e altre scelte sono nelle **Impostazioni**.
+Solo i video D-Log M originali vengono elaborati: quelli Normali, HLG, HDR o a 8 bit vengono saltati e l'app ti avvisa già quando li scegli. Se un video si ferma per un errore, i Risultati ti spiegano cosa è successo e cosa fare. La guida completa è nel menu › **Come funziona**; formati, colore e altre scelte sono nelle **Impostazioni**.
 
 ## Cosa crea
 
